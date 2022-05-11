@@ -11,4 +11,5 @@ root.render(
   </React.StrictMode>
 );
 
+// Add new comment
 reportWebVitals();
